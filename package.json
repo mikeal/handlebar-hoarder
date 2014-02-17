@@ -1,0 +1,28 @@
+{
+  "name": "handlebar-hoarder",
+  "version": "0.0.0",
+  "description": "Handlebar cache",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "~2.0.0-alpha.1",
+    "lru-cache": "~2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/handlebar-hoarder"
+  },
+  "keywords": [
+    "handlebars",
+    "cache"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeal/handlebar-hoarder/issues"
+  },
+  "homepage": "https://github.com/mikeal/handlebar-hoarder"
+}
